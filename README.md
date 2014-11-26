@@ -31,3 +31,5 @@ I wanted to show off the skills I have developed studying Wordpress, so I have a
 I have not had a chance to complete all the elements of my personal site, but it still includes a majority of the functionality. I still have to incporporate 
 my wordpress blog, and setup queries to run in my Latest Blog Posts section. Additionally, I still have to photoshop some background images to throw in a slider at the
 very top of the page. 
+
+This is a link to my functioning pages site: http://jordanbredehoeft.github.io/personalPortfolio/
